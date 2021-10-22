@@ -1,3 +1,0 @@
-username: admin
-password: %[^^ka3"LX#<2.jc
-auth token: 75a30cf1e2a80f54aee85c21a34f9836d4262d98
